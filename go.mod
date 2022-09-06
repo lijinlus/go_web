@@ -1,3 +1,3 @@
-module my_code
+module go_web
 
 go 1.18
